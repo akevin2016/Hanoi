@@ -2,9 +2,9 @@
 
 Provides a solution for the Towers of Hanoi problem.
 
-Compile using:
+Compile using:</br>
 javac Hanoi.java
 
-Run using:
-java Hanoi n
+Run using:</br>
+java Hanoi n</br>
 Where n is the number of disks used in the problem.
